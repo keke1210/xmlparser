@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<product>
+    <bleachingCode>6</bleachingCode>
+    <defaultLanguage>en_GB</defaultLanguage>
+    <definitions>
+        <detailsData>
+            <cedi>CD01</cedi>
+            <childWeightFrom>0.0</childWeightFrom>
+            <childWeightTo>0.0</childWeightTo>
+            <color_code>030</color_code>
+            <color_description>AZUL</color_description>
+            <countryImages>false</countryImages>
+            <defaultSku>true</defaultSku>
+            <preferredEan>8052473552489</preferredEan>
+            <sapAssortmentLevel>TB</sapAssortmentLevel>
+            <sapPrice>4.2</sapPrice>
+            <season>A/I</season>
+            <showOnLineSku>true</showOnLineSku>
+            <size_code>M00</size_code>
+            <size_description>50 cm - 0-1 Meses</size_description>
+            <skuID>000000000593430001</skuID>
+            <skuName>CHAQUETA TRICOT ALGODOÓN AZUL / AZUL / 50 cm - 0-1 Meses</skuName>
+            <stateOfArticle>true</stateOfArticle>
+            <umSAPprice>€</umSAPprice>
+            <volume>489.51</volume>
+            <weight>52.0</weight>
+        </detailsData>
+        <detailsData>
+            <cedi>CD01</cedi>
+            <childWeightFrom>0.0</childWeightFrom>
+            <childWeightTo>0.0</childWeightTo>
+            <color_code>030</color_code>
+            <color_description>AZUL</color_description>
+            <countryImages>false</countryImages>
+            <defaultSku>false</defaultSku>
+            <preferredEan>8052473552519</preferredEan>
+            <sapAssortmentLevel>TB</sapAssortmentLevel>
+            <sapPrice>4.2</sapPrice>
+            <season>A/I</season>
+            <showOnLineSku>true</showOnLineSku>
+            <size_code>M06</size_code>
+            <size_description>68 cm - 6-9 Meses</size_description>
+            <skuID>000000000593430004</skuID>
+            <skuName>CHAQUETA TRICOT ALGODOÓN AZUL / AZUL / 68 cm - 6-9 Meses</skuName>
+            <stateOfArticle>true</stateOfArticle>
+            <umSAPprice>€</umSAPprice>
+            <volume>489.51</volume>
+            <weight>52.0</weight>
+        </detailsData>
+        <detailsData>
+            <cedi>CD01</cedi>
+            <childWeightFrom>0.0</childWeightFrom>
+            <childWeightTo>0.0</childWeightTo>
+            <color_code>030</color_code>
+            <color_description>AZUL</color_description>
+            <countryImages>false</countryImages>
+            <defaultSku>false</defaultSku>
+            <preferredEan>8052473552502</preferredEan>
+            <sapAssortmentLevel>TB</sapAssortmentLevel>
+            <sapPrice>4.2</sapPrice>
+            <season>A/I</season>
+            <showOnLineSku>true</showOnLineSku>
+            <size_code>M03</size_code>
+            <size_description>62 cm - 3-6 Meses</size_description>
+            <skuID>000000000593430003</skuID>
+            <skuName>CHAQUETA TRICOT ALGODOÓN AZUL / AZUL / 62 cm - 3-6 Meses</skuName>
+            <stateOfArticle>true</stateOfArticle>
+            <umSAPprice>€</umSAPprice>
+            <volume>489.51</volume>
+            <weight>52.0</weight>
+        </detailsData>
+        <detailsData>
+            <cedi>CD01</cedi>
+            <childWeightFrom>0.0</childWeightFrom>
+            <childWeightTo>0.0</childWeightTo>
+            <color_code>030</color_code>
+            <color_description>AZUL</color_description>
+            <countryImages>false</countryImages>
+            <defaultSku>false</defaultSku>
+            <preferredEan>8052473552496</preferredEan>
+            <sapAssortmentLevel>TB</sapAssortmentLevel>
+            <sapPrice>4.2</sapPrice>
+            <season>A/I</season>
+            <showOnLineSku>true</showOnLineSku>
+            <size_code>M01</size_code>
+            <size_description>56 cm - 1-3 Meses</size_description>
+            <skuID>000000000593430002</skuID>
+            <skuName>CHAQUETA TRICOT ALGODOÓN AZUL / AZUL / 56 cm - 1-3 Meses</skuName>
+            <stateOfArticle>true</stateOfArticle>
+            <umSAPprice>€</umSAPprice>
+            <volume>489.51</volume>
+            <weight>52.0</weight>
+        </detailsData>
+        <headerData>
+            <bag>false</bag>
+            <bleachingDescription> </bleachingDescription>
+            <brand>Prénatal</brand>
+            <brandCode>2</brandCode>
+            <catalog>Espain</catalog>
+            <composition></composition>
+            <creationDateInDatabase>2017-01-14T02:10:56.493+01:00</creationDateInDatabase>
+            <custom1></custom1>
+            <custom2></custom2>
+            <custom3></custom3>
+            <drinkHolder>false</drinkHolder>
+            <dryCleaningDescription>Limpieza en seco con algún tipo de disolvente</dryCleaningDescription>
+            <dryingDescription> </dryingDescription>
+            <EShopDisplayName>CHAQUETA TRICOT ALGODOÓN AZUL</EShopDisplayName>
+            <EShopLongDescription>Cárdigan en tricot azul cielo de algodón con cuello redondo y cierre por botones frontales.</EShopLongDescription>
+            <ergonomicSeat>false</ergonomicSeat>
+            <fasteningTypeDescription>-</fasteningTypeDescription>
+            <fasteningTypeTextile>-</fasteningTypeTextile>
+            <flat>false</flat>
+            <freeDelivery>true</freeDelivery>
+            <gender>Niño</gender>
+            <indicatorOfItHasToBeAssembled>false</indicatorOfItHasToBeAssembled>
+            <ironingDescription> </ironingDescription>
+            <lastDateChanged>2017-01-14T02:10:56.493+01:00</lastDateChanged>
+            <lastUserChanged>pwic</lastUserChanged>
+            <productFeatures>Easy Fit Tape</productFeatures>
+            <productFeatures>Special Bra</productFeatures>
+            <productMissingFeatures>Easy Fit Tape</productMissingFeatures>
+            <productMissingFeatures>Special Bra</productMissingFeatures>
+            <productStatus/>
+            <pulloutType> </pulloutType>
+            <pulloutTypeDescription> </pulloutTypeDescription>
+            <punnet>false</punnet>
+            <sapCategoryID>03</sapCategoryID>
+            <sapCategoryName>R.Nacido</sapCategoryName>
+            <sapDivisionID>0303</sapDivisionID>
+            <sapDivisionName>Over</sapDivisionName>
+            <sapFamilyDescription>CHAQUETA RECIÉN NACIDO</sapFamilyDescription>
+            <sapFamilyID>62</sapFamilyID>
+            <sapFamilyName>CHAQUETA RN</sapFamilyName>
+            <sapMacrocategoryID>T02</sapMacrocategoryID>
+            <sapMacrocategoryName>MC Recién Nacido</sapMacrocategoryName>
+            <sapName>CHAQUETA TRICOT ALGODON AZUL</sapName>
+            <sapUniverseID>T</sapUniverseID>
+            <sapUniverseName>U Textil</sapUniverseName>
+            <showOnLine>false</showOnLine>
+            <sizeGuide>CT066</sizeGuide>
+            <sourceID/>
+            <userOfCreation>SAP</userOfCreation>
+            <waistlineDescription>-</waistlineDescription>
+            <washability> </washability>
+            <washabilityDescription> </washabilityDescription>
+            <zipStopper>false</zipStopper>
+        </headerData>
+        <locale>es_ES</locale>
+    </definitions>
+    <dryCleaningCode>6</dryCleaningCode>
+    <dryingCode>20</dryingCode>
+    <fasteningTypeCode>9</fasteningTypeCode>
+    <ironingCode>12</ironingCode>
+    <productID>000000000000593430</productID>
+    <pulloutTypeCode>4</pulloutTypeCode>
+    <sapPacket>999</sapPacket>
+    <updateImages>false</updateImages>
+    <waistlineCode>15</waistlineCode>
+    <washabilityCode>28</washabilityCode>
+</product>

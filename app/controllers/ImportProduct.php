@@ -17,13 +17,6 @@ class ImportProduct{
         $this->productData= $parser->parse($path);
 
         $this->methods_container($this->productData);
-        // $this->insert_frontData_product($this->productData);
-        // $this->query();
-
-        // $this->insert_front_product_meta($this->productData);
-        // $this->insert_locale($this->productData);
-        // $this->insert_details_data($this->productData);
-        // $this->insert_header_data($this->productData);
     }
 
 
@@ -38,7 +31,7 @@ class ImportProduct{
     }
 
 
-
+    //get The last id of product
     public function query(){
         $this->sql = "SELECT id FROM `product` ORDER BY id DESC LIMIT 1";
         $this->stmt = $this->conn->fetchAll($this->sql);
@@ -76,7 +69,7 @@ class ImportProduct{
             'parentId' => 0,
         ));
     } else {
-        die('This product already exists');
+        die('This product is already inserted or exists in the db');
     }
 
     }
@@ -157,7 +150,7 @@ class ImportProduct{
                     if(count($header)==1){
                         $header = "";
                     } else {
-                        $header = json_encode($header);
+                        $header = json_encode($header); // serialize
                     }
                 }
                 // dump($id);

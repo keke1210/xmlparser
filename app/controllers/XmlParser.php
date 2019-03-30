@@ -20,11 +20,12 @@ class XmlParser extends Singleton {
         return $new;       
     }
 
+    
     // Parse Xml Data
     public function parse($path) {
             $dir = 'app/resources/'.$path.'.xml';
             if(file_exists($dir)){
-                $product = simplexml_load_file('app/resources/'.$path.'.xml');
+                $product = simplexml_load_file($dir);
                 return $this->object_to_array($product);
             } else {
                 die("This file doesn't exists");
